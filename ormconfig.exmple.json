@@ -1,0 +1,13 @@
+{
+    "type": "",
+    "host": "",
+    "port": 0,
+    "username": "",
+    "password": "",
+    "database": "",
+    "entities": [""],
+    "migrations": [""],
+    "cli": {
+        "migrationsDir": ""
+    }
+}
